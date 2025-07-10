@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi there, I'm Ehsan 👋</h1>
 <p align="center">
-  <b>Data Enthusiast | Distributed Systems Explorer | Photographer</b>
+  <b>Data Engineer
 </p>
 
 ---
@@ -50,9 +50,11 @@ Curious about my work or just want to geek out about tech, data, or photography?
 Drop me a line—let’s connect! 🚀
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shirvanian/)
-- [![stackOverflow](https://img.shields.io/badge/stackoverflow-ff0084?logo=stackoverflow&logoColor=white)](https://www.flickr.com/photos/shirvana/)
-- [![Email me](https://img.shields.io/badge/Email?style=flat&logo=firefox)](mailto:ehsan@shirvanian.com)
-- [![StackOverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/1367454)](https://stackoverflow.com/users/1367454/eshirvana)
+- [![stackOverflow](https://img.shields.io/badge/stackoverflow-ff0084?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1367454/eshirvana) [![StackOverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/1367454)]
+- <a href="mailto:ehsan@shirvanian.com">
+    <img src="https://img.shields.io/badge/Email-elegant?style=flat&logo=gmail&logoColor=white&color=ea4335" alt="email" />
+  </a>
+
 
 
 ---
