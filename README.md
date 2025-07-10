@@ -29,7 +29,7 @@ I'm Ehsan, a data enthusiast who loves diving deep into the world of bytes, pipe
 
 ## 🛠 Open Source & Projects
 
-- 👏 Proud contributor to [<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="20"/> Pandas](https://github.com/pandas-dev/pandas), [<img src="https://scipy.org/_static/logo.svg" width="20"/> SciPy](https://github.com/scipy/scipy), and more.
+- 👏 Proud contributor to [<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="20"/> Pandas](https://github.com/pandas-dev/pandas), [SciPy](https://github.com/scipy/scipy), and more.
 - Always excited to give back to the community that’s taught me so much.
 
 ---
@@ -65,6 +65,7 @@ Drop me a line—let’s connect! 🚀
   <img src="https://github-readme-stats.vercel.app/api?username=eshirvana&show_icons=true&theme=radical" alt="Ehsan's GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=eshirvana&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshirvana&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ehsan&api_domain=waka.shirvanian.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact" />
 </p>
 
 ---
