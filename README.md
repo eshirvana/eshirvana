@@ -27,38 +27,6 @@ I'm Ehsan, a data enthusiast who loves diving deep into the world of bytes, pipe
 
 ---
 
-## 🛠 Open Source & Projects
-
-- 👏 Proud contributor to [<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="20"/> Pandas](https://github.com/pandas-dev/pandas), [SciPy](https://github.com/scipy/scipy), and more.
-- Always excited to give back to the community that’s taught me so much.
-
----
-
-## 📸 Beyond Data
-
-When I’m not wrangling data or optimizing workflows, I enjoy capturing the beauty of the world through my camera lens. Whether it’s a stunning landscape or a candid moment, photography is my creative outlet.
-
-- [![Website](https://img.shields.io/badge/Website-ehsan.codes-informational?style=flat&logo=firefox)](https://ehsan.codes)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/eshirvana/)
-- [![Flickr](https://img.shields.io/badge/Flickr-ff0084?logo=flickr&logoColor=white)](https://www.flickr.com/photos/shirvana/)
-
----
-
-## 📫 Connect
-
-Curious about my work or just want to geek out about tech, data, or photography?  
-Drop me a line—let’s connect! 🚀
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shirvanian/)
-- [![stackOverflow](https://img.shields.io/badge/stackoverflow-ff0084?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1367454/eshirvana) ![StackOverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/1367454)
-- <a href="mailto:ehsan@shirvanian.com">
-    <img src="https://img.shields.io/badge/Email-elegant?style=flat&logo=gmail&logoColor=white&color=ea4335" alt="email me" />
-  </a>
-
-
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
