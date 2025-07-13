@@ -64,7 +64,6 @@ Drop me a line—let’s connect! 🚀
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eshirvana&show_icons=true&theme=radical" alt="Ehsan's GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=eshirvana&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshirvana&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ehsan&api_domain=waka.shirvanian.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact" />
 </p>
 
